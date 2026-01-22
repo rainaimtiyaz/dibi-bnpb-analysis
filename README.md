@@ -15,7 +15,7 @@ Menganalisis dampak bencana di berbagai provinsi di Indonesia untuk menentukan p
 
 ---
 
-## 🛠️ Tech Stack & Methodology
+## Tech Stack & Methodology
 Proyek ini menggunakan pendekatan statistika deskriptif dan inferensial:
 
 * **Tools:** Python (Pandas, Matplotlib, Seaborn, Scipy) & Tableau.
