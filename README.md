@@ -40,3 +40,5 @@ Berdasarkan analisis pada `P1M2_raina_imtiyaz.ipynb`:
 Dapatkan gambaran data secara visual melalui dashboard Tableau berikut:
 
 **[Lihat Tableau Dashboard](https://public.tableau.com/app/profile/raina.imtiyaz4352/viz/P1M2_raina_imtiyaz/Story1?publish=yes)**
+<img width="1079" height="636" alt="image" src="https://github.com/user-attachments/assets/f5a9ffe3-2eee-4d37-a2d3-4446c593d2f8" />
+
