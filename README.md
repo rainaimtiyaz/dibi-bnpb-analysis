@@ -39,4 +39,4 @@ Berdasarkan analisis pada `P1M2_raina_imtiyaz.ipynb`:
 ## Visualisasi Interaktif
 Dapatkan gambaran data secara visual melalui dashboard Tableau berikut:
 
-**[Lihat Tableau Dashboard: Disaster Mitigation Analysis](https://public.tableau.com/app/profile/raina.imtiyaz4352/viz/P1M2_raina_imtiyaz/Story1?publish=yes)**
+**[Lihat Tableau Dashboard](https://public.tableau.com/app/profile/raina.imtiyaz4352/viz/P1M2_raina_imtiyaz/Story1?publish=yes)**
