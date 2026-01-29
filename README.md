@@ -4,7 +4,7 @@
 > **Strategic Disaster Mitigation Policy Analysis | Milestone 2 - CODA RMT-0012**
 
 ## Project Background
-Bencana alam merupakan ancaman konstan yang berdampak signifikan pada keselamatan jiwa dan infrastruktur di Indonesia. Proyek ini bertujuan untuk melakukan analisis mendalam terhadap **Data Informasi Bencana Indonesia (DIBI)** dari BNPB guna memberikan dasar strategis dalam penyusunan kebijakan mitigasi.
+Bencana alam merupakan ancaman konstan yang berdampak signifikan pada keselamatan jiwa dan infrastruktur di Indonesia. Proyek ini bertujuan untuk melakukan analisis mendalam terhadap **[Data Informasi Bencana Indonesia (DIBI)](https://dibi.bnpb.go.id/superset/dashboard/2/)** dari BNPB guna memberikan dasar strategis dalam penyusunan kebijakan mitigasi.
 
 Fokus utama analisis ini adalah mengidentifikasi wilayah paling rentan, jenis bencana dengan dampak kerusakan terbesar, serta memberikan rekomendasi berbasis data untuk menekan angka korban dan kerugian materiil.
 
